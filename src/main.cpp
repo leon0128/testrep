@@ -1,5 +1,7 @@
 int main(int argc, char **argv)
 {
+	const char *cmd = argv[0];
+
 	// commit 6
 
 	// commit 1
