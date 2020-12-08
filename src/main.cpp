@@ -1,6 +1,7 @@
 int main(int argc, char **argv)
 {
-	const char *cmd = argv[0];
+	if(argv[0] != nullptr)
+	    const char *cmd = argv[0];
 
 	// commit 6
 
